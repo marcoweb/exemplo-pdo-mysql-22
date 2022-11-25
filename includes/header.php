@@ -18,7 +18,7 @@
                         <a class="nav-link" aria-current="page" href="/index.php">Gêneros</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" aria-current="page" href="/list_livros.php">Livros</a>
+                        <a class="nav-link" aria-current="page" href="/livros_list.php">Livros</a>
                     </li>
                 </ul>
             </div>
